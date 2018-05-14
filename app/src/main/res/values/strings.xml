@@ -3,4 +3,12 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="swap_lang_desc">Swap Arrows</string>
+
+    <string name="tranlator_edit_hint">Input text here</string>
+
+    <array name="from_lang_array">
+        <item>RU</item>
+        <item>EN</item>
+    </array>
 </resources>
